@@ -1,3 +1,2 @@
 this is a proof of git for my git and github course
-this is a modification
-this is another modification
+tomorrow i'm got to put the last change on this document
