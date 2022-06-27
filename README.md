@@ -1,4 +1,4 @@
-#HyperBlog :tw-1f60e: 
+##HyperBlog :tw-1f60e: 
 
 This repository **was made it to practice** knowledge acquired on the git and github course of platzi.
 
